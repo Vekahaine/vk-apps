@@ -1,5 +1,5 @@
 {
-  "vktv": { "version": "1.5.2", "asar": "vktv/app-1.5.2.asar", "sha256": "4b8e74ce33f551de0c065e7cd8e8e9694d6d04b0c6fadbd0fd057d0da4edbd6b", "size": 1729625, "electron": "33.2.1", "notes": "Renommer une série, un épisode, une catégorie ou une liste fonctionne" },
-  "vkseries": { "version": "1.4.3", "asar": "vkseries/app-1.4.3.asar", "sha256": "a3fd78414cce22a739d1e9f37c27b3d7493a38e21203e5402ce2b71cc048d418", "size": 639245, "electron": "33.2.1", "notes": "Renommer une série, un épisode, une catégorie ou une liste fonctionne" },
-  "android": { "code": 6, "version": "1.3.2", "apk": "android/VkTV-1.3.2.apk", "notes": "Renommer une série, un épisode, une catégorie ou une liste fonctionne" }
+  "vktv": { "version": "1.6.0", "asar": "vktv/app-1.6.0.asar", "sha256": "0a1fb05c2684bbc78fef255d9c713d97648637b08cbd4c9d35cac5aaf574361f", "size": 1734759, "electron": "33.2.1", "notes": "Bouton Mettre à jour, rangement dans Mes documents, recherche des personnages améliorée" },
+  "vkseries": { "version": "1.5.0", "asar": "vkseries/app-1.5.0.asar", "sha256": "9319b1f1236a32a6d7b0fc9e746f3040daafa90569bef08957db579a053c0958", "size": 647088, "electron": "33.2.1", "notes": "Bouton Mettre à jour, rangement dans Mes documents, recherche des personnages améliorée" },
+  "android": { "code": 7, "version": "1.4.0", "apk": "android/VkTV-1.4.0.apk", "notes": "Bouton Mettre à jour, rangement dans Mes documents, recherche des personnages améliorée" }
 }
