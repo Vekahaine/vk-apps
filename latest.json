@@ -1,5 +1,5 @@
 {
-  "vktv": { "version": "1.6.1", "asar": "vktv/app-1.6.1.asar", "sha256": "562ca1783b03ef5ef27efeaa925ea6af2bc36fe693d1e8370cddcd7adcf602eb", "size": 1738690, "electron": "33.2.1", "notes": "Lecture plus fluide : réglages propres à chaque appareil" },
-  "vkseries": { "version": "1.6.0", "asar": "vkseries/app-1.6.0.asar", "sha256": "542fada59c34d4bc01a7f24078660bf9d39e68f48199370eff071d8e3eb54cad", "size": 667073, "electron": "33.2.1", "notes": "Créer une série vide, déplacer un épisode, outils IA affichés" },
+  "vktv": { "version": "1.6.2", "asar": "vktv/app-1.6.2.asar", "sha256": "052efafd961cbc6625dc7648afdc54a9ea010d2ff449a4582da9a062e4118047", "size": 1741403, "electron": "33.2.1", "notes": "Compte en ligne : limite de sécurité à 9,5 Go" },
+  "vkseries": { "version": "1.6.1", "asar": "vkseries/app-1.6.1.asar", "sha256": "7665e631d68a7f19a945df7bbe7d6a17bb5196362b73fbc19b4875a5a52cb2d0", "size": 668179, "electron": "33.2.1", "notes": "Limite de sécurité à 9,5 Go en ligne : jamais de dépassement payant" },
   "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" }
 }
