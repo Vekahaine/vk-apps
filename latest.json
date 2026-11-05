@@ -1,5 +1,6 @@
 {
   "vktv": { "version": "1.6.4", "asar": "vktv/app-1.6.4.asar", "sha256": "4fe95800da132b8c0e4ac4cf0329bcd373bbaa9e8e49c4c1b18885cecd49d6d9", "size": 1761852, "electron": "33.2.1", "notes": "Compte en ligne : tes séries peuvent maintenant être rangées sur Railway (réglage dans VkSéries)" },
   "vkseries": { "version": "1.8.7", "asar": "vkseries/app-1.8.7.asar", "sha256": "14aa72e88b57dd278202c3d8081f103f7d822629a2fbe74d2aca7d8f1927c9ce", "size": 750000, "electron": "33.2.1", "notes": "Surnoms respectés : un surnom n'est plus jamais remplacé de force par le vrai nom (ni par un nom de famille). Retraduis les épisodes touchés (sans réécoute, Gemini seulement)." },
-  "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" }
+  "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" },
+  "vkseries_android": { "code": 1, "version": "1.0.0", "apk": "android/VkSeries-1.0.0.apk", "notes": "Première version de VkSéries sur Android" }
 }
