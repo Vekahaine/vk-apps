@@ -1,5 +1,5 @@
 {
-  "vktv": { "version": "1.6.0", "asar": "vktv/app-1.6.0.asar", "sha256": "0a1fb05c2684bbc78fef255d9c713d97648637b08cbd4c9d35cac5aaf574361f", "size": 1734759, "electron": "33.2.1", "notes": "Groq saturé : changement de modèle et reprise automatique" },
-  "vkseries": { "version": "1.5.2", "asar": "vkseries/app-1.5.2.asar", "sha256": "8a73bdeabf3e1bdf8fc043fd368e494af88e5e11a87f7fca85e402671c6dfc10", "size": 656394, "electron": "33.2.1", "notes": "Groq saturé : changement de modèle et reprise automatique" },
-  "android": { "code": 7, "version": "1.4.0", "apk": "android/VkTV-1.4.0.apk", "notes": "Groq saturé : changement de modèle et reprise automatique" }
+  "vktv": { "version": "1.6.0", "asar": "vktv/app-1.6.0.asar", "sha256": "0a1fb05c2684bbc78fef255d9c713d97648637b08cbd4c9d35cac5aaf574361f", "size": 1734759, "electron": "33.2.1", "notes": "Ajouter des épisodes à une série existante ; écoute en qualité maximale par défaut" },
+  "vkseries": { "version": "1.5.3", "asar": "vkseries/app-1.5.3.asar", "sha256": "4477f99c8b09982dc502ca0bfbbbb3a138b77fa21126499e789ed258ef321d07", "size": 658040, "electron": "33.2.1", "notes": "Ajouter des épisodes à une série existante ; écoute en qualité maximale par défaut" },
+  "android": { "code": 7, "version": "1.4.0", "apk": "android/VkTV-1.4.0.apk", "notes": "Ajouter des épisodes à une série existante ; écoute en qualité maximale par défaut" }
 }
