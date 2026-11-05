@@ -1,5 +1,5 @@
 {
   "vktv": { "version": "1.6.1", "asar": "vktv/app-1.6.1.asar", "sha256": "562ca1783b03ef5ef27efeaa925ea6af2bc36fe693d1e8370cddcd7adcf602eb", "size": 1738690, "electron": "33.2.1", "notes": "Lecture plus fluide : réglages propres à chaque appareil" },
-  "vkseries": { "version": "1.5.4", "asar": "vkseries/app-1.5.4.asar", "sha256": "2eb4aecb57c9158c8d97e7849d226bd774b271f60203e0a4f28a55b41a06c57b", "size": 658793, "electron": "33.2.1", "notes": "Fichiers techniques hors de Mes documents" },
+  "vkseries": { "version": "1.6.0", "asar": "vkseries/app-1.6.0.asar", "sha256": "542fada59c34d4bc01a7f24078660bf9d39e68f48199370eff071d8e3eb54cad", "size": 667073, "electron": "33.2.1", "notes": "Créer une série vide, déplacer un épisode, outils IA affichés" },
   "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" }
 }
