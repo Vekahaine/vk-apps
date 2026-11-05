@@ -1,5 +1,5 @@
 {
-  "vktv": { "version": "1.6.2", "asar": "vktv/app-1.6.2.asar", "sha256": "052efafd961cbc6625dc7648afdc54a9ea010d2ff449a4582da9a062e4118047", "size": 1741403, "electron": "33.2.1", "notes": "Compte en ligne : limite de sécurité à 9,5 Go" },
-  "vkseries": { "version": "1.6.1", "asar": "vkseries/app-1.6.1.asar", "sha256": "7665e631d68a7f19a945df7bbe7d6a17bb5196362b73fbc19b4875a5a52cb2d0", "size": 668179, "electron": "33.2.1", "notes": "Limite de sécurité à 9,5 Go en ligne : jamais de dépassement payant" },
+  "vktv": { "version": "1.6.3", "asar": "vktv/app-1.6.3.asar", "sha256": "12c628fabb3c1fbebd3db0c1a7515a10c8a15e6bbee3f9dfc90ae3aa7f2caef2", "size": 1751895, "electron": "33.2.1", "notes": "Compte en ligne : les séries se rangent maintenant sur ton propre disque en ligne (réglage dans VkSéries)" },
+  "vkseries": { "version": "1.7.0", "asar": "vkseries/app-1.7.0.asar", "sha256": "70457dfd4b5c0b83bafe9d367d2457c9d39c1df0512ab54c333c120659c26359", "size": 683166, "electron": "33.2.1", "notes": "Nouveau : branche ton disque en ligne (ex. Hetzner Storage Box, 1 To) dans « En ligne » pour mettre tes séries en ligne" },
   "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" }
 }
