@@ -1,7 +1,7 @@
 {
   "vktv": { "version": "1.6.6", "asar": "vktv/app-1.6.6.asar", "sha256": "41f191e8fa96013f762ef6349de1f6a3d17771da08d2f284c98b0ed5c0e54f51", "size": 1794131, "electron": "33.2.1", "notes": "Diffusion sur TV (Chromecast, Google TV, TV connectées) depuis le téléphone" },
   "vkseries": { "version": "1.8.9", "asar": "vkseries/app-1.8.9.asar", "sha256": "7c3f8799dc8b517552be19efe1dac15ec27f04c0cb84d7afe9f155baf083aff8", "size": 766288, "electron": "33.2.1", "notes": "Le lecteur en ligne peut diffuser sur la TV (Chromecast, Google TV, TV connectées)" },
-  "android": { "code": 9, "version": "1.5.0", "apk": "android/VkTV-1.5.0.apk", "notes": "Diffusion sur TV (Chromecast / Google TV / TV connectées) + l'appli se met à jour toute seule, sans réinstaller" },
+  "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.6", "zip": "vktv/www-1.6.6.zip", "sha256": "41bbbbb0082d8daad5dcdced32263e79c1f2fb073cf9dfbcdb93274d5a8fd0eb", "minApk": 9 },
-  "vkseries_android": { "code": 2, "version": "1.1.0", "apk": "android/VkSeries-1.1.0.apk", "notes": "Diffusion sur TV (Chromecast / Google TV / TV connectées)" }
+  "vkseries_android": { "code": 3, "version": "1.1.1", "apk": "android/VkSeries-1.1.1.apk", "notes": "Faite pour les Android récents · diffusion sur TV" }
 }
