@@ -1,5 +1,5 @@
 {
-  "vktv": { "version": "1.6.0", "asar": "vktv/app-1.6.0.asar", "sha256": "0a1fb05c2684bbc78fef255d9c713d97648637b08cbd4c9d35cac5aaf574361f", "size": 1734759, "electron": "33.2.1", "notes": "Bouton Mettre à jour, rangement dans Mes documents, recherche des personnages améliorée" },
-  "vkseries": { "version": "1.5.0", "asar": "vkseries/app-1.5.0.asar", "sha256": "9319b1f1236a32a6d7b0fc9e746f3040daafa90569bef08957db579a053c0958", "size": 647088, "electron": "33.2.1", "notes": "Bouton Mettre à jour, rangement dans Mes documents, recherche des personnages améliorée" },
-  "android": { "code": 7, "version": "1.4.0", "apk": "android/VkTV-1.4.0.apk", "notes": "Bouton Mettre à jour, rangement dans Mes documents, recherche des personnages améliorée" }
+  "vktv": { "version": "1.6.0", "asar": "vktv/app-1.6.0.asar", "sha256": "0a1fb05c2684bbc78fef255d9c713d97648637b08cbd4c9d35cac5aaf574361f", "size": 1734759, "electron": "33.2.1", "notes": "Musique de fond des séries, le sous-titrage ne reste plus bloqué sur la recherche des personnages" },
+  "vkseries": { "version": "1.5.1", "asar": "vkseries/app-1.5.1.asar", "sha256": "30d4c2c3b68780368efde38ff6a0c7e4c468ebaf75b753d960be7a3cc14921f1", "size": 654468, "electron": "33.2.1", "notes": "Musique de fond des séries, le sous-titrage ne reste plus bloqué sur la recherche des personnages" },
+  "android": { "code": 7, "version": "1.4.0", "apk": "android/VkTV-1.4.0.apk", "notes": "Musique de fond des séries, le sous-titrage ne reste plus bloqué sur la recherche des personnages" }
 }
