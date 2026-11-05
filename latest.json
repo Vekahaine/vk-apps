@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.9.0", "asar": "vkseries/app-1.9.0.asar", "sha256": "91c971f4f253960bc1d86e63a131a14d5bb0406d0ede716f59028194d2c5ab26", "size": 807492, "electron": "33.2.1", "notes": "Ton téléphone peut maintenant piloter VkSéries du PC (appli VkSéries Android 2.0)" },
+  "vkseries": { "version": "1.10.0", "asar": "vkseries/app-1.10.0.asar", "sha256": "5ccb79be9f7840d2216ee47c65542904708bc6d60f54e9ce3a72cfd781fd4368", "size": 1178819, "electron": "33.2.1", "notes": "Sous-titres : plus de titres ni de noms de famille ajoutés, surnoms respectés · nouvelle icône bleue" },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
-  "vkseries_android": { "code": 4, "version": "2.0.0", "apk": "android/VkSeries-2.0.0.apk", "notes": "La même interface que sur PC ; pilote ton PC quand il est allumé (sous-titres, mise en ligne, vérification…) ; diffusion sur TV" },
-  "vkseries_www": { "version": "1.9.0", "zip": "vkseries/www-1.9.0.zip", "sha256": "eb18f88df623007ea742c27d45630a3989ca36b4c689fd26e0cd1f19221abcae", "minApk": 4 }
+  "vkseries_android": { "code": 5, "version": "2.0.1", "apk": "android/VkSeries-2.0.1.apk", "notes": "Nouvelle icône bleue · les prochaines mises à jour s'installent depuis l'appli" },
+  "vkseries_www": { "version": "1.10.0", "zip": "vkseries/www-1.10.0.zip", "sha256": "778b3b44a9681f6f6e53ecadac1b305d26d00735db086a84e1a179045b89251b", "minApk": 4 }
 }
