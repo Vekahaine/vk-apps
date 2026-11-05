@@ -1,5 +1,5 @@
 {
   "vktv": { "version": "1.6.4", "asar": "vktv/app-1.6.4.asar", "sha256": "4fe95800da132b8c0e4ac4cf0329bcd373bbaa9e8e49c4c1b18885cecd49d6d9", "size": 1761852, "electron": "33.2.1", "notes": "Compte en ligne : tes séries peuvent maintenant être rangées sur Railway (réglage dans VkSéries)" },
-  "vkseries": { "version": "1.8.1", "asar": "vkseries/app-1.8.1.asar", "sha256": "55836a0a6a8ff00a42cb1ccd52266ed3ee3395e157dec3bceb45c772db068583", "size": 732974, "electron": "33.2.1", "notes": "Sous-titres IA : reprise automatique après une coupure (épisodes de plus de 2 h) + vérification des sous-titres" },
+  "vkseries": { "version": "1.8.2", "asar": "vkseries/app-1.8.2.asar", "sha256": "b3abcad9a3ddddeec33c4435d2fc43728be8872931ead31d5b136536b28cdca3", "size": 737449, "electron": "33.2.1", "notes": "Sous-titrage en arrière-plan : tu peux fermer VkSéries, il continue (icône près de l'horloge) ou reprend tout seul au prochain lancement. Limite Groq atteinte = pause puis reprise automatique." },
   "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" }
 }
