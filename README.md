@@ -1,3 +1,4 @@
-# VkTV & VkSéries
+# VkTV & VkSéries — mises à jour
 
-Mises à jour automatiques des applis (fichiers uniquement).
+Ce dossier sert uniquement aux mises à jour automatiques des applis VkTV et VkSéries.
+Les applis vérifient `latest.json` et téléchargent toutes seules ce qu'il faut.
