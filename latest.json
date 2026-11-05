@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.10.2", "asar": "vkseries/app-1.10.2.asar", "sha256": "3b51ba121f7cb4f39146d14de51351777d0bf0ee5754297975f98a612346f2dc", "size": 1183025, "electron": "33.2.1", "notes": "Vérification : les répétitions dites par les personnages ne sont plus prises pour des erreurs" },
+  "vkseries": { "version": "1.11.0", "asar": "vkseries/app-1.11.0.asar", "sha256": "b0ac15bb3e2f0fcc0b559f4b39011ecc7532fa6fa77bbe8722271173c4fee82b", "size": 1192549, "electron": "33.2.1", "notes": "Vérification : explique le problème à l'IA ou écris la bonne phrase toi-même · nouveau bouton « Pas d'erreur »" },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 5, "version": "2.0.1", "apk": "android/VkSeries-2.0.1.apk", "notes": "Nouvelle icône bleue · les prochaines mises à jour s'installent depuis l'appli" },
-  "vkseries_www": { "version": "1.10.2", "zip": "vkseries/www-1.10.2.zip", "sha256": "0bef5ddcb7744713c072a244dc3536b4eda68b05b18c9c318c97aed7b0db8d31", "minApk": 4 }
+  "vkseries_www": { "version": "1.11.0", "zip": "vkseries/www-1.11.0.zip", "sha256": "e8959a62de0d5273ace3edea907d2581d22479d377630a51c93b25fb3e94967e", "minApk": 4 }
 }
