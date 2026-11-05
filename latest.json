@@ -1,5 +1,5 @@
 {
   "vktv": { "version": "1.6.4", "asar": "vktv/app-1.6.4.asar", "sha256": "4fe95800da132b8c0e4ac4cf0329bcd373bbaa9e8e49c4c1b18885cecd49d6d9", "size": 1761852, "electron": "33.2.1", "notes": "Compte en ligne : tes séries peuvent maintenant être rangées sur Railway (réglage dans VkSéries)" },
-  "vkseries": { "version": "1.8.4", "asar": "vkseries/app-1.8.4.asar", "sha256": "b501b6d6d0818a66aafc207bbffa48dc100693a1b249f09bbaca2dae5e21ebf8", "size": 737361, "electron": "33.2.1", "notes": "Correction : la fenêtre « En ligne » ne remplace plus toute seule les noms propres ou les réglages" },
+  "vkseries": { "version": "1.8.5", "asar": "vkseries/app-1.8.5.asar", "sha256": "31e8ea8a0aced30b347b4dc29dacae7b7227727a671b3abbbdbc04fb6563f2fd", "size": 742471, "electron": "33.2.1", "notes": "Sous-titres mieux calés (plus de répliques en avance) · la vérification repère les prénoms mal entendus et les apprend · la vérification n'utilise que Gemini" },
   "android": { "code": 8, "version": "1.4.1", "apk": "android/VkTV-1.4.1.apk", "notes": "Réglages propres à chaque appareil" }
 }
