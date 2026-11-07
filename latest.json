@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.20.0", "asar": "vkseries/app-1.20.0.asar", "sha256": "54df3e5042dd4f47d948bb07bde2e6efd9543415d3e32e1cb8df6c373caef38b", "size": 1168870, "electron": "33.2.1", "notes": "Nouvel onglet Communauté, playlists sur tout le catalogue, mises à jour annoncées dès le lancement" },
+  "vkseries": { "version": "1.21.1", "asar": "vkseries/app-1.21.1.asar", "sha256": "25cc2669459c1504770450158f3cad6aa806054fabf9bf30e66163a3f4ce2717", "size": 1183585, "electron": "33.2.1", "notes": "Nouvelle page Administration : onglets, message, couleur et comptes" },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.20.0", "zip": "vkseries/www-1.20.0.zip", "sha256": "44db45e47ea9b1bdffb84667efcaf5229b6d8649ded7a9d073d43df260a8cc50", "minApk": 4 }
+  "vkseries_www": { "version": "1.21.1", "zip": "vkseries/www-1.21.1.zip", "sha256": "4e1c509547f9925524bf9aa7456d4937091094589f4981352635490b888107f0", "minApk": 4 }
 }
