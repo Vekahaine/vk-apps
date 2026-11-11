@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.25.1", "asar": "vkseries/app-1.25.1.asar", "sha256": "95ac075c59396148abc3ed220164538125d15924c0221591b4a2f7b7011485df", "size": 1325529, "electron": "33.2.1", "notes": "Ajouter une clé IA est plus simple : en haut de Administration › Clés IA, en 3 étapes, avec le choix du compte Google et un bouton Coller." },
+  "vkseries": { "version": "1.25.2", "asar": "vkseries/app-1.25.2.asar", "sha256": "bc3846d94b0cf3f8d005e4f92c5360bce7f92b2c00646ffa8cb343f09deaf4f5", "size": 1333469, "electron": "33.2.1", "notes": "Administration › Clés IA : vraies limites de chaque clé (lues chez Groq et Google), épisodes par jour possibles et nombre de comptes conseillé." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.25.1", "zip": "vkseries/www-1.25.1.zip", "sha256": "b0ba9302004f607eeb069527482a6b50a67910b4c0c4f043abcf2a8f1bed376f", "minApk": 4 }
+  "vkseries_www": { "version": "1.25.2", "zip": "vkseries/www-1.25.2.zip", "sha256": "37ca3dc63bb8df1e65b7b6c91f2b58f92e86c5bd956856ce7b6cef6ff545001a", "minApk": 4 }
 }
