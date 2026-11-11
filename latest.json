@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.26.1", "asar": "vkseries/app-1.26.1.asar", "sha256": "3a069bc5031adb68927a4a4d14667065f75f9489d6bcc92f77f99a3323dec139", "size": 1374470, "electron": "33.2.1", "notes": "Réorganise le catalogue dans l'ordre que tu veux (visible par tous) ; les mises à jour suivantes arriveront sans délai." },
+  "vkseries": { "version": "1.26.2", "asar": "vkseries/app-1.26.2.asar", "sha256": "cbf93bc61cbee1057d0b59c913413cb0d2cc6703e3b895c99616364e7a853b01", "size": 1374968, "electron": "33.2.1", "notes": "Sous-titrage beaucoup plus fluide : 3 fois moins de demandes à Gemini par épisode, et relais automatique vers le Flash suivant quand le meilleur est épuisé." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.26.1", "zip": "vkseries/www-1.26.1.zip", "sha256": "ec7c4ecc0929b8dfc1f30f7865622ca6768e9fcd5694a87c43c2e941b383d18c", "minApk": 4 }
+  "vkseries_www": { "version": "1.26.2", "zip": "vkseries/www-1.26.2.zip", "sha256": "7eb1cba4a39ca773c7cd734a5acdbff5ee61e0d366443ab3be979f3f33d95b3b", "minApk": 4 }
 }
