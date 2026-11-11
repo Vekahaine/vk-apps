@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.24.0", "asar": "vkseries/app-1.24.0.asar", "sha256": "9b0c9f9b84ed7167042290f4c22d666f0e93c17fb4c11f98fcec458481ad73ad", "size": 1298409, "electron": "33.2.1", "notes": "Administration : clés IA avec leur état en direct et ajout en un collage ; séries protégées par mot de passe ; changement du mot de passe propriétaire ; transfert des vidéos vers un nouvel hébergeur." },
+  "vkseries": { "version": "1.25.0", "asar": "vkseries/app-1.25.0.asar", "sha256": "28bebba784b212a206e15b8bec6c982c8c98beaa418b3171c333714df80fe49e", "size": 1320027, "electron": "33.2.1", "notes": "Administration › Clés IA : facturation en direct (consommation, coût estimé, plafond d'alerte, liens vers tes vraies factures) et compte (e-mail) de chaque clé." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.24.0", "zip": "vkseries/www-1.24.0.zip", "sha256": "a1ae471e3b40fdd95cbc8bd3681ae1fd0fe2c129fde5eddc6523259cf7488022", "minApk": 4 }
+  "vkseries_www": { "version": "1.25.0", "zip": "vkseries/www-1.25.0.zip", "sha256": "4fc249ee05af8d3a7a59ce6c038c20c3751353673be75ea2b85352557d948f39", "minApk": 4 }
 }
