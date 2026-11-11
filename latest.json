@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.27.2", "asar": "vkseries/app-1.27.2.asar", "sha256": "b6a20fb8c3aef93ef189d0aea9c62afdb8958f41363ebe0abe01934a7620d81e", "size": 1404222, "electron": "33.2.1", "notes": "Un bloc raté ne fait plus échouer un épisode (nouvel essai automatique), secours Groq fiable, page Travaux plus lisible avec un bouton Réessayer." },
+  "vkseries": { "version": "1.28.0", "asar": "vkseries/app-1.28.0.asar", "sha256": "f307516edc139df07ef0bc8bb1a0be7b455812d66e34939abe4aceb294927226", "size": 1422638, "electron": "33.2.1", "notes": "Plusieurs musiques de fond par série, jouées une seule fois à la suite ; bouton pour couper ou relancer, et reprise là où on en était." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.27.2", "zip": "vkseries/www-1.27.2.zip", "sha256": "e26cb4295045dcb252d748c4067eb49d5d0aa0b2b25de79fc86f449aa5aced76", "minApk": 4 }
+  "vkseries_www": { "version": "1.28.0", "zip": "vkseries/www-1.28.0.zip", "sha256": "c3109c1ab6534c1552afb11374029bb6cad32a25f23eebec102d50c8b070807f", "minApk": 4 }
 }
