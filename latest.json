@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.30.0", "asar": "vkseries/app-1.30.0.asar", "sha256": "6a36f21707dceaea1ddad471a1a86b14069e532ef9f9b24a12b93e4c3f734554", "size": 1500503, "electron": "33.2.1", "notes": "Nouvelle catégorie « Bientôt disponible » (séries visibles par tous, épisodes réservés au propriétaire) et temps restant des mises en ligne (épisode en cours et toute la file)." },
+  "vkseries": { "version": "1.30.1", "asar": "vkseries/app-1.30.1.asar", "sha256": "5446bdfebdb5df460ce6d9f2c6c4f325c3021c6267c4750024de516760aeec11", "size": 1502474, "electron": "33.2.1", "notes": "L'appli a les mêmes sous-titres que le site : ceux qui manquent sur le PC sont récupérés depuis la version en ligne." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.30.0", "zip": "vkseries/www-1.30.0.zip", "sha256": "901985783c91ac3d7b86ef9d444b7267f94bc50be948bf5f578cb1faac6b1d55", "minApk": 4 }
+  "vkseries_www": { "version": "1.30.1", "zip": "vkseries/www-1.30.1.zip", "sha256": "901985783c91ac3d7b86ef9d444b7267f94bc50be948bf5f578cb1faac6b1d55", "minApk": 4 }
 }
