@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.36.0", "asar": "vkseries/app-1.36.0.asar", "sha256": "b51ae1aecbf8ba7510268440ede657da0b298c8194190e8b522acd26f7264c69", "size": 1613330, "electron": "33.2.1", "notes": "VDIZI international : interface en français, anglais, allemand et espagnol (drapeau en haut à droite), sous-titres EN/DE/ES au choix par série, descriptions traduites." },
+  "vkseries": { "version": "1.36.1", "asar": "vkseries/app-1.36.1.asar", "sha256": "fc56b849ef9884c77415c0a5909340142b61f07e0bcb786d16a7f32f042120af", "size": 1610470, "electron": "33.2.1", "notes": "Description IA d'une série en quelques secondes (une seule demande, jamais d'attente), toujours sans spoiler." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.36.0", "zip": "vkseries/www-1.36.0.zip", "sha256": "b020bae95015181b73da3104daa007f91ed25e14e3af88b330367981f013f21e", "minApk": 4 }
+  "vkseries_www": { "version": "1.36.1", "zip": "vkseries/www-1.36.1.zip", "sha256": "684653b963cfe151130cb03f77d6f6bfdf75c4b2d010ceba3a69d8830f800983", "minApk": 4 }
 }
