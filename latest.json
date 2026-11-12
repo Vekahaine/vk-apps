@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.29.2", "asar": "vkseries/app-1.29.2.asar", "sha256": "d5522b23cc53b53556af9c2115ebb10bf73a1743ac0378ec8a9546f3463fae7c", "size": 1478649, "electron": "33.2.1", "notes": "Une série suit son dossier quand tu le renommes ou le déplaces : les épisodes gardent leurs sous-titres, leur reprise et leur mise en ligne." },
+  "vkseries": { "version": "1.29.3", "asar": "vkseries/app-1.29.3.asar", "sha256": "1ed3d718030d51a434e77eb85e524537b9017707ca0a6b16440a8f0fcd4be7f2", "size": 1488199, "electron": "33.2.1", "notes": "Mise en ligne : reprend là où elle en était après une fermeture, conversion des vidéos AV1 1,6 fois plus rapide, alerte immédiate s'il manque de la place (l'envoi attend au lieu d'échouer), vitesse et temps restant affichés." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.29.2", "zip": "vkseries/www-1.29.2.zip", "sha256": "a0541c91dc2774659a74e78fcb5378c5b58ad216df7ecd64c094cf8e80b47048", "minApk": 4 }
+  "vkseries_www": { "version": "1.29.3", "zip": "vkseries/www-1.29.3.zip", "sha256": "689cb67399d9559c504037190b9d7feadad20b3f873cd1830ab8444e40127b7b", "minApk": 4 }
 }
