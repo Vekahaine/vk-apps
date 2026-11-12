@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.31.1", "asar": "vkseries/app-1.31.1.asar", "sha256": "a84c107f55bc530dfb2b3e15b74ea9a56f805a1b43e4e1fe8ad0c13ece83b136", "size": 1514084, "electron": "33.2.1", "notes": "Un épisode envoyé reste « en ligne » même si la série change pendant l'envoi ; les épisodes déjà en ligne mais non marqués sont réparés tout seuls au lancement." },
+  "vkseries": { "version": "1.32.0", "asar": "vkseries/app-1.32.0.asar", "sha256": "52e69ebc5569785ca17b7cb90644177b80a79a1a47c0fd817e85bb8ba38c2d8d", "size": 1517087, "electron": "33.2.1", "notes": "Mises en ligne sur deux voies : les MP4 déjà au bon format partent pendant qu'un MKV est converti ; une carte par envoi en cours." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.31.1", "zip": "vkseries/www-1.31.1.zip", "sha256": "196bcb904fdc5595626d27af51e52591ea2b3be7ce14ea17cbe29a8acebd9ac8", "minApk": 4 }
+  "vkseries_www": { "version": "1.32.0", "zip": "vkseries/www-1.32.0.zip", "sha256": "052b3d339a241e17fde408963fae266eb698b2a937c4f1d0cb53dad2181957e3", "minApk": 4 }
 }
