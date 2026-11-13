@@ -1,8 +1,8 @@
 {
   "vktv": { "version": "1.6.7", "asar": "vktv/app-1.6.7.asar", "sha256": "bb842255162803852b2e1b1bf132c9cfe56e5f17e859e5171cb0c097ee275c46", "size": 1797899, "electron": "33.2.1", "notes": "Améliorations du compte en ligne" },
-  "vkseries": { "version": "1.37.0", "asar": "vkseries/app-1.37.0.asar", "sha256": "517d05b54c23c43225e0eddecfc4e60acf276765e7597597dcf67ce93c35a9e1", "size": 1632433, "electron": "33.2.1", "notes": "Années des séries affichées automatiquement ; site mieux traduit (onglets, page Télécharger) ; sous-titres : plus jamais de répliques laissées en langue d'origine." },
+  "vkseries": { "version": "1.38.0", "asar": "vkseries/app-1.38.0.asar", "sha256": "3d3487349352f8edbc105fcf1efeb7c328ea08c3e850490ee036bbbdf64fcb67", "size": 1698958, "electron": "33.2.1", "notes": "Protéger une série depuis son menu ⋯ ; TV et box Android : connexion par code avec le téléphone ; bouton Chromecast sur l'appli PC et le site." },
   "android": { "code": 10, "version": "1.5.1", "apk": "android/VkTV-1.5.1.apk", "notes": "Faite pour les Android récents (plus d'avertissement « version antérieure d'Android ») · diffusion sur TV · mise à jour sans réinstaller" },
   "android_www": { "version": "1.6.7", "zip": "vktv/www-1.6.7.zip", "sha256": "e6ab6719c917e0dfc3616a2ee3b3f122b4796f1d95aea5387ce0ff8de56095a6", "minApk": 9 },
   "vkseries_android": { "code": 6, "version": "2.1.0", "apk": "android/VDIZI-2.1.0.apk", "notes": "VkSéries devient VDIZI : nouveau nom et nouveau logo" },
-  "vkseries_www": { "version": "1.37.0", "zip": "vkseries/www-1.37.0.zip", "sha256": "2ac6fff3c2f8f577a56835e4e431002729d8201fb957961f79cf0ed9ecec5a46", "minApk": 4 }
+  "vkseries_www": { "version": "1.38.0", "zip": "vkseries/www-1.38.0.zip", "sha256": "85e52acb6dcb2cb53c1eef39bec115d90b63a7564c72c486845ffe95d1803472", "minApk": 4 }
 }
